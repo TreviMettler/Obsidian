@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "9576a4efd89f30c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "6814d15685f52a4f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8336e6c5108f39a3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "4a8496471451faef",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "4658aa028199183d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "38dab726d6f5b6c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ddd567f9fe99531",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "385457f9588a7346",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "599d938d0f3e2754",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b5d34b79054b3320",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7bc7db8c0b194182",
+    "type": "split",
+    "children": [
+      {
+        "id": "baea687289330c14",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf1090901026dca3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "12b307d5a3122de1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f485b8d11a48f95d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3db3f206091c71c9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4658aa028199183d",
+  "lastOpenFiles": [
+    "DevelopmentThings/Kotlin Navigation Components.md",
+    "Untitled.md",
+    "DevelopmentThings/App architecture.md",
+    "vim.md",
+    "DevelopmentThings/Music player.md",
+    "DevelopmentThings/appIdeas.md",
+    "Things to put on my CV.md"
+  ]
+}
