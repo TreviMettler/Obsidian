@@ -12,4 +12,4 @@ Navigation component is a set of 3 main parts consistinf of:
 
 ### NavGraph
 	Composables
-		
+[[Drawing 2022-12-01 14.43.19.excalidraw]]
