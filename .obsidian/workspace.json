@@ -163,13 +163,21 @@
                 "file": "DevelopmentThings/Package Stuctures.md"
               }
             }
+          },
+          {
+            "id": "9498dccbe80f4307",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "c4f82ff755d84aa3",
   "lastOpenFiles": [
