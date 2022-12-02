@@ -104,7 +104,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7bc7db8c0b194182",
@@ -182,9 +183,9 @@
   "active": "c4f82ff755d84aa3",
   "lastOpenFiles": [
     "DevelopmentThings/Kotlin Navigation Components.md",
+    "DevelopmentThings/Package Stuctures.md",
     "DevelopmentThings/Making an app.md",
     "Excalidraw/navigationCompoentFigure1.md",
-    "DevelopmentThings/Package Stuctures.md",
     "DevelopmentThings/Music player.md",
     "DevelopmentThings/appIdeas.md",
     "DevelopmentThings/App architecture.md",
