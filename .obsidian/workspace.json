@@ -8,41 +8,53 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8336e6c5108f39a3",
+            "id": "355e2372c759951d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vim.md",
-                "mode": "preview",
+                "file": "DevelopmentThings/Making an app.md",
+                "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4a8496471451faef",
+            "id": "0b59fe614c6f1d99",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "DevelopmentThings/Kotlin Navigation Components.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4658aa028199183d",
+            "id": "c4f82ff755d84aa3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevelopmentThings/Package Stuctures.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0fc8943fbd8ad230",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2022-12-01 14.43.19.excalidraw.md"
+                "file": "Excalidraw/navigationCompoentFigure1.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevelopmentThings/Kotlin Navigation Components.md",
+                "file": "DevelopmentThings/Package Stuctures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevelopmentThings/Kotlin Navigation Components.md",
+                "file": "DevelopmentThings/Package Stuctures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevelopmentThings/Kotlin Navigation Components.md"
+                "file": "DevelopmentThings/Package Stuctures.md"
               }
             }
           }
@@ -159,15 +171,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4a8496471451faef",
+  "active": "c4f82ff755d84aa3",
   "lastOpenFiles": [
-    "DevelopmentThings/App architecture.md",
-    "vim.md",
-    "Excalidraw/Drawing 2022-12-01 14.43.19.excalidraw.md",
     "DevelopmentThings/Kotlin Navigation Components.md",
-    "Untitled.md",
+    "DevelopmentThings/Making an app.md",
+    "Excalidraw/navigationCompoentFigure1.md",
+    "DevelopmentThings/Package Stuctures.md",
     "DevelopmentThings/Music player.md",
     "DevelopmentThings/appIdeas.md",
-    "Things to put on my CV.md"
+    "DevelopmentThings/App architecture.md",
+    "Excalidraw/Drawing 2022-12-02 13.08.18.excalidraw.md",
+    "vim.md",
+    "Excalidraw/Drawing 2022-12-01 14.43.19.excalidraw.md"
   ]
 }
