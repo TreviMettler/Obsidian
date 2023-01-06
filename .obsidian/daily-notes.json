@@ -1,0 +1,5 @@
+{
+  "autorun": false,
+  "format": "DD\\xMM",
+  "template": "templates/scratch"
+}

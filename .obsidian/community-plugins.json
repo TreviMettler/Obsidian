@@ -1,5 +1,9 @@
 [
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-excalidraw-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "hotkeysplus-obsidian",
+  "obsidian-style-settings",
+  "obsidian-search-everywhere-plugin",
+  "templater-obsidian"
 ]

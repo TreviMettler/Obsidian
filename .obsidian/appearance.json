@@ -1,3 +1,9 @@
 {
-  "accentColor": ""
+  "accentColor": "",
+  "cssTheme": "Cyber Glow",
+  "interfaceFontFamily": "",
+  "baseFontSize": 18,
+  "nativeMenus": false,
+  "showViewHeader": false,
+  "theme": "obsidian"
 }

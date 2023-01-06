@@ -4,11 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6814d15685f52a4f",
+        "id": "fa7cb7ca0a454f8f",
         "type": "tabs",
         "children": [
           {
-            "id": "355e2372c759951d",
+            "id": "fb114a8b8d33715d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2022-12-27 03.00.07.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "5c127370e9037cf9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,41 +30,43 @@
             }
           },
           {
-            "id": "0b59fe614c6f1d99",
+            "id": "a3d9b0ae1abc8694",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevelopmentThings/Kotlin Navigation Components.md",
+                "file": "DevelopmentThings/TODO.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c4f82ff755d84aa3",
+            "id": "a8a226d78ecd2393",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevelopmentThings/Package Stuctures.md",
+                "file": "DevelopmentThings/workout.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0fc8943fbd8ad230",
+            "id": "3aef77ae118c8120",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/navigationCompoentFigure1.md"
+                "file": "Mental Health/Untitled.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -91,21 +103,12 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "b5d34b79054b3320",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 313
   },
   "right": {
     "id": "7bc7db8c0b194182",
@@ -121,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevelopmentThings/Package Stuctures.md",
+                "file": "DevelopmentThings/workout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevelopmentThings/Package Stuctures.md",
+                "file": "DevelopmentThings/workout.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevelopmentThings/Package Stuctures.md"
+                "file": "DevelopmentThings/workout.md"
               }
             }
           },
@@ -180,17 +183,29 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "c4f82ff755d84aa3",
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9498dccbe80f4307",
   "lastOpenFiles": [
-    "DevelopmentThings/Kotlin Navigation Components.md",
-    "DevelopmentThings/Package Stuctures.md",
+    "DevelopmentThings/TODO.md",
     "DevelopmentThings/Making an app.md",
-    "Excalidraw/navigationCompoentFigure1.md",
-    "DevelopmentThings/Music player.md",
-    "DevelopmentThings/appIdeas.md",
-    "DevelopmentThings/App architecture.md",
-    "Excalidraw/Drawing 2022-12-02 13.08.18.excalidraw.md",
-    "vim.md",
-    "Excalidraw/Drawing 2022-12-01 14.43.19.excalidraw.md"
+    "Things to put on my CV.md",
+    "Mental Health/notes.on.stutz.md",
+    "Mental Health/Untitled.md",
+    "Excalidraw/Drawing 2022-12-27 03.00.07.excalidraw.md",
+    "DevelopmentThings/Sending Arguments Between Screens.md",
+    "DevelopmentThings/ViewModel.md",
+    "DevelopmentThings/dependencyInjection with dagger hilt.md",
+    "DevelopmentThings/ROOM.md"
   ]
 }
